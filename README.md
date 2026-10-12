@@ -1,5 +1,3 @@
-# Hi, I'm Eduardo Morales Vargas 👋
-
 ### AI/ML Engineer · PhD in Computer Science
 
 I develop custom machine learning models and intelligent systems, combining research with practical implementation. My work covers computer vision, signal processing, robotics, and the integration of AI into software and physical systems.
